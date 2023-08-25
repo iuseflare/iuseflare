@@ -27,7 +27,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **[My portfolio](https://iuseflare.duckdns.org)**
 
-- 🌱 I’m currently learning **designing in CSS**
+- 🌱 I’m currently learning **design in CSS**
 
 - 📝 I regularly upload on **[YouTube](https://www.youtube.com/@iuseflare)**
 
