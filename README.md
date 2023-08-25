@@ -90,7 +90,7 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.twitch.tv/iuseflare" target="blank" style="margin-left: 10px">Twitch</a>
+<a href="https://www.twitch.tv/iuseflare" target="blank">Twitch</a>
 <a href="https://discord.com/invite/BUqe9svvEx" target="blank">Discord</a> 
 <a href="https://www.youtube.com/@iuseflare" target="blank">YouTube</a>
 <a href="https://www.fiverr.com/iuseflare" target="blank">Fiverr</a>
