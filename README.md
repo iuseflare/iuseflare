@@ -54,7 +54,7 @@
 <td width="50%" align="center">
 
   <img  align="center"  src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=iuseflare&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=5"/>
-  
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iuseflare&theme=dark&hide_border=false" /> 
   </td>
 </tr>
 </table>
