@@ -76,7 +76,7 @@
 </div>
 <!--tech stack icons-->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,html,js,kotlin,linux,py,vscode&perline=14" />
+  <img src="https://skillicons.dev/icons?i=git,github,html,js,linux,py,vscode&perline=14" />
 </p>
 
 
