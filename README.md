@@ -29,13 +29,13 @@
 
 - 🌱 I’m currently learning **designing in CSS**
 
-- 📝 I regularly write upload on [Hashnode](https://1010nishant.hashnode.dev/)
+- 📝 I regularly upload on **[YouTube](https://www.youtube.com/@iuseflare)**
 
 - 💬 Ask me about **anything**
 
 - 📫 Feel free to reach me out **iuseflarebusiness@gmail.com**
 
-- 🏠 Also I've got a communiy called [cfg heaven](https://discord.com/invite/BUqe9svvEx).
+- 🏠 Also I've got a communiy called **[cfg heaven](https://discord.com/invite/BUqe9svvEx)**
 <!--Intro end-->
 
 
