@@ -33,7 +33,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 Feel free to reach me out **iuseflarebusiness@gmail.com**
+- 📫 Feel free to reach me out **iuseflare@floppa.cc**
 
 - 🏠 Also I've got a communiy called **[cfg heaven](https://discord.com/invite/BUqe9svvEx)**
 <!--Intro end-->
@@ -71,7 +71,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies That I Know 👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -84,7 +84,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
   </ul>
 </div>
 
