@@ -24,9 +24,9 @@
 
 
 
-
+<ul align="center">
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wfsecs&layout=compact&theme=dark)
-
+</ul>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
