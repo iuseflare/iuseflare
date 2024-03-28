@@ -10,10 +10,12 @@
 ### - 🌱 I’m currently learning more about Front-End
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wfsecs&layout=compact&theme=dark)
-
+<div>
+  
   <ul align="center">
     <h2 style="display: inline-block">Technologies That I Know 👨🏻‍💻</h2>
   </ul>
+</div>
 <img src="https://skillicons.dev/icons?i=git,github,html,js,linux,py,vscode&perline=14" />
 
   
