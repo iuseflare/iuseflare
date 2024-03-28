@@ -11,7 +11,7 @@
 ### - 🌱 I’m currently learning more about Front-End
 ### - ⚡ Fun fact: Anyone can code...
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wfsecs&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iuseflare&layout=compact&theme=dark)
 <br><br>
 <img src="https://skillicons.dev/icons?i=git,github,html,js,linux,py,vscode&perline=14" />
   
