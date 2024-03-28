@@ -30,10 +30,7 @@
     <summary><h2 style="display: inline-block">Technologies That I Know 👨🏻‍💻</h2></summary>
   </ul>
 </div>
-<!--tech stack icons-->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,html,js,linux,py,vscode&perline=14" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,html,js,linux,py,vscode&perline=14" />
 
 
 <!-- Connect with me -->
