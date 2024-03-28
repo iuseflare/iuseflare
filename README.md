@@ -24,32 +24,8 @@
 
 
 
-<!--- stats & Trophy (start) -->
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=iuseflare&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iuseflare&theme=dark&hide_border=false" /> 
-</td>
 
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=iuseflare&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=5"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wfsecs&layout=compact&theme=dark)
 
 
 <!--h1 without bottom border-->
