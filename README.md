@@ -7,29 +7,13 @@
     <summary><h1 style="display: inline-block">Hi, I'm iuseflare👋</h1></summary>
   </ul>
 </div>
-
-
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Anyone can code.</h2></summary>
-  </ul>
-</div>
-
-
-<!--Intro start-->
 ### - 🌱 I’m currently learning more about Front-End
-<!--Intro end-->
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wfsecs&layout=compact&theme=dark)
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know 👨🏻‍💻</h2></summary>
+    <h2 style="display: inline-block">Technologies That I Know 👨🏻‍💻</h2>
   </ul>
-</div>
 <img src="https://skillicons.dev/icons?i=git,github,html,js,linux,py,vscode&perline=14" />
 
   
