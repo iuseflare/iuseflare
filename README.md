@@ -25,17 +25,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **[@inspectfunds](https://floppa.cc/fr)**
-
-- 🌱 I’m currently learning **design in CSS**
-
-- 📝 I regularly upload on **[YouTube](https://www.youtube.com/@iuseflare)**
-
-- 💬 Ask me about **anything**
-
-- 📫 Feel free to reach me out **iuseflare@floppa.cc**
-
-- 🏠 Also I've got a communiy called **[cfg heaven](https://discord.com/invite/BUqe9svvEx)**
+### - 🌱 I’m currently learning more about Front-End
 <!--Intro end-->
 
 
@@ -94,8 +84,7 @@
 <a href="https://discord.com/invite/BUqe9svvEx" target="blank">Discord</a> 
 <a href="https://www.youtube.com/@iuseflare" target="blank">YouTube</a>
 <a href="https://www.fiverr.com/iuseflare" target="blank">Fiverr</a>
-<a href="https://paypal.me/iuseflare" target="blank">PayPal</a>
-  
+<a href="https://paypal.me/iuseflare" target="blank">PayPal</a>  
 </p>
 
 
