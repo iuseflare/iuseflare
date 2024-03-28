@@ -12,7 +12,7 @@
 ### - ⚡ Fun fact: Anyone can code...
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wfsecs&layout=compact&theme=dark)
-<br>
+<br><br>
 <img src="https://skillicons.dev/icons?i=git,github,html,js,linux,py,vscode&perline=14" />
   
 [![](https://visitcount.itsvg.in/api?id=iuseflare&icon=3&color=6)](https://visitcount.itsvg.in)
